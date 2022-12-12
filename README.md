@@ -20,11 +20,6 @@ The purpose of these Challenges is to deepen students' knowledge in the area of 
 
 **Entrega:** Ao final de cada semana, será entregue um Notebook Python, desenvolvido no VSCODE, com  o código e análises efetuados para a resolução das atividades solicitadas pela empresa. Adicionalmente, poderão ser disponibilizados  arquivos CSV com resultados obtidos, bem como imagens de gráficos gerados. Tanto os Notebooks quanto os arquivos adicionais ficarão disponíveis no [Repositório criado para o projeto no GitHub](https://github.com/Lacerdash/Alura_Challenge_Data_Science).
 
-**Language:** Python was the language used in development, using Jupyer Notebooks to present the results. The main packages used were:
-
-**Libraries Used:**
-- PySpark
-
 ---
 
 ## Semana 1
@@ -41,24 +36,10 @@ Todas as atividades executadas estão documentadas neste [notebook](https://gith
 
 ## Semana 2
 
-A segunda semana foi dedicado a exploração dos dados por meio de análises visuais e descrição das conclusões/hipóteses geradas pelos gráficos e outras análises. A variável target do projeto é o churn rate (taxa de evasão). 
-
-Nessa semana também foi possível aprender na prática como utilizar a biblioteca Plotly para criar gráficos.
-
-Todas as atividades executadas estão documentadas neste [notebook](https://github.com/Lacerdash/Alura_Challenge_Data_Science/blob/main/Semana%2002/Explorando%20os%20dados.ipynb).
+Working ...
 
 ---
 
 ## Semana 3
 
-Na terceira semana, entrei na área de Machine Learning, avaliando e aplicando o balanceamento na variável target, aplicando 4 modelos de Machine Learning, e 1 dummy classifier. Para depois escolher e otimizar o melhor modelo.
-
-Essa foi a etapa de conclusão do projeto onde pude validar as hipóteses e sugerir ações para redução da taxa de evasão de clientes.
-
-Todas as atividades executadas estão documentadas no [notebook](https://github.com/Lacerdash/Alura_Challenge_Data_Science/blob/main/Semana%2003/Machine%20Learning.ipynb).
-
----
-
-## Badge de conclusão do Projeto
-
-<a href="https://imgur.com/rvbXegn"><img src="https://i.imgur.com/rvbXegn.png" title="source: imgur.com" width="200" height="200"/></a>
+Working ...
