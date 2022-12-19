@@ -1,4 +1,11 @@
 # Alura Data Science Challenge II
+<div align="center">
+  <a href="https://www.linkedin.com/in/fernando-lacerda-/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Lacerdash">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
+
 In this Repository is my project developed during the participation in the second Data Science Challenge promoted by Alura. Alura is a Brazilian online platform for technology courses.
 
 The purpose of these Challenges is to deepen students' knowledge in the area of ​​Data Science, through practical challenges. More specific in this case we will use PySpark to make all the ETL process, build a regression model to price real estate and create a real estate recommender.
@@ -7,7 +14,7 @@ The purpose of these Challenges is to deepen students' knowledge in the area of 
 | -------------  | --- |
 | :sparkles: Project Name        | **Alura Data Science Challenge II**
 | :label: Tecnologias | Python
-| :rocket: Libraries         | PySpark, zipfile,
+| :rocket: Libraries         | PySpark, zipfile, Seaborn and pyplot
 | :fire: Challenge     | https://www.alura.com.br/challenges/data-science-2/
 
 ---
@@ -59,3 +66,6 @@ All activities performed are documented in this [notebook](https://github.com/La
 ## Semana 3
 
 Working ...
+
+
+![insignhtPlaces](https://user-images.githubusercontent.com/104234513/203103126-3dbe6892-5acb-46d0-bef5-e3c10b7c5a5a.png#vitrinedev)
