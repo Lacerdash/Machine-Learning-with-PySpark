@@ -58,7 +58,7 @@ The second part of the project is dedicated to:
 - Optimizing the best model
     - Cross Validation and Hyperparameters Testing
 
-[Parquet file generated]().
+[Parquet file generated](https://github.com/Lacerdash/Alura-Data-Science-Challenge-II/blob/main/data/parquet_processed_data/part-00000-77a364cc-9d61-4824-a9de-d12178f9f117-c000.snappy.parquet).
 
 All activities performed are documented in this [notebook](https://github.com/Lacerdash/Alura-Data-Science-Challenge-II/blob/main/2%20-%20Regression%20Models.ipynb).
 ---
