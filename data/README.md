@@ -1,5 +1,5 @@
 
-[Data Base](https://github.com/Lacerdash/Alura-Data-Science-Challenge-II/blob/main/semana-1.zip)
+[Data Base](https://github.com/Lacerdash/Alura-Data-Science-Challenge-II/blob/main/data/semana-1.zip)
 
 ### Data Dictionary - Anuncio
 
